@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1693786723 source:c:\users\nico_\desktop\parcial_ayed_\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1693789388 source:c:\users\nico_\desktop\parcial_ayed_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cliente.h"
+	"banco.h"
+
+1693786793 source:c:\users\nico_\desktop\parcial_ayed_\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banco.h"
+
+1693786793 c:\users\nico_\desktop\parcial_ayed_\banco.h
+
+1693786679 c:\users\nico_\desktop\parcial_ayed_\cliente.h
+
+1693169783 source:c:\users\nico_\desktop\parcial_ayed_\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651638646 c:\users\nico_\desktop\parcial_ayed_\lista.h
+
+1694559860 source:c:\users\aula11\desktop\parcial_ayed_\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1694559860 c:\users\aula11\desktop\parcial_ayed_\cliente.h
+
+1694561771 source:c:\users\aula11\desktop\parcial_ayed_\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1694559029 c:\users\aula11\desktop\parcial_ayed_\lista.h
+
+1694561180 source:c:\users\aula11\desktop\parcial_ayed_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cliente.h"
+	"banco.h"
+
+1694559860 c:\users\aula11\desktop\parcial_ayed_\banco.h
+	"lista.h"
+
+1694560674 source:c:\users\aula11\desktop\parcial_ayed_\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banco.h"
+	"lista.h"
+
+1694559860 source:c:\users\dante\desktop\parcial_ayed_d\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1694559860 c:\users\dante\desktop\parcial_ayed_d\cliente.h
+
+1697477326 source:c:\users\dante\desktop\parcial_ayed_d\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1697477326 c:\users\dante\desktop\parcial_ayed_d\lista.h
+
+1697496917 source:c:\users\dante\desktop\parcial_ayed_d\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cliente.h"
+	"banco.h"
+	"pila.h"
+	"Arbol.h"
+
+1697496082 c:\users\dante\desktop\parcial_ayed_d\banco.h
+	"lista.h"
+	"cliente.h"
+
+1697496915 source:c:\users\dante\desktop\parcial_ayed_d\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banco.h"
+	"lista.h"
+	"cliente.h"
+	"Arbol.h"
+
+1697477583 source:c:\users\dante\desktop\parcial_ayed_d\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"banco.h"
+	"lista.h"
+	"cliente.h"
+
+1697477583 c:\users\dante\desktop\parcial_ayed_d\pila.h
+	"lista.h"
+
+1697491194 source:c:\users\dante\desktop\parcial_ayed_d\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"Arbol.h"
+
+1697491194 c:\users\dante\desktop\parcial_ayed_d\arbol.h
+
